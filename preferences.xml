@@ -1,0 +1,13 @@
+  GNU nano 6.2                    preferences.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>Theory</row>
+    <row>Postman</row>
+    <row>Charles</row>
+    <row>Fiddler</row>
+    <row>SQL</row>
+    <row>Jmeter</row>
+</root>
+
+
+
