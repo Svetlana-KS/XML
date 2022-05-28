@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <title> </title>
+    <severity> </severity>
+    <priority> </priority>
+    <description> </description>
+    <environment> </environment>
+    <steps_to_reproduce> </steps_to_reproduce>
+    <expected_result> </expected_result>
+    <actual_result> </actual_result>
+    <attachments> </attachments>
+</root>
